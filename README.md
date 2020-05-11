@@ -1,6 +1,8 @@
 [![Circle CI](https://circleci.com/gh/sameersbn/docker-apt-cacher-ng.svg?style=shield)](https://circleci.com/gh/sameersbn/docker-apt-cacher-ng) [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/apt-cacher-ng/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/apt-cacher-ng)
 
-# sameersbn/apt-cacher-ng:3.1-3
+# eretz-de/apt-cacher-ng:3.5-1
+
+This superseedes sameersbn/apt-cacher-ng:3.1-3
 
 - [Introduction](#introduction)
   - [Contributing](#contributing)
