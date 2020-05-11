@@ -1,8 +1,8 @@
-FROM ubuntu:bionic-20190612
+FROM debian:bullseye-20200422-slim
 
-LABEL maintainer="sameer@damagehead.com"
+LABEL maintainer="karnatz@digitalmedics.de"
 
-ENV APT_CACHER_NG_VERSION=3.1 \
+ENV APT_CACHER_NG_VERSION=3.5 \
     APT_CACHER_NG_CACHE_DIR=/var/cache/apt-cacher-ng \
     APT_CACHER_NG_LOG_DIR=/var/log/apt-cacher-ng \
     APT_CACHER_NG_USER=apt-cacher-ng
