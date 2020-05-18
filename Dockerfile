@@ -1,4 +1,4 @@
-FROM debian:bullseye-20200422-slim
+FROM debian:bullseye-slim
 
 LABEL maintainer="karnatz@digitalmedics.de"
 
